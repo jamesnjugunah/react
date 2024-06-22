@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  header {
+    background: #007BFF;
+    color: white;
+    padding: 1em;
+    text-align: center;
+  }
+  
+  nav a {
+    color: white;
+    margin: 0 1em;
+    text-decoration: none;
+  }
+  
+  main {
+    padding: 2em;
+  }
+  
+  section {
+    margin-bottom: 2em;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  label {
+    margin-bottom: 1em;
+  }
+  
+  button {
+    background: #007BFF;
+    color: white;
+    border: none;
+    padding: 0.5em 1em;
+    cursor: pointer;
+    width:150px;
+    height:auto;
+    border-radius:10px;
+  }
+  
+  footer {
+    background: #f1f1f1;
+    text-align: center;
+    padding: 1em;
+  }
+  
