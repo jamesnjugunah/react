@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './style.css'; // Assume you have some basic styles in styles.css
+import './style.css'; 
 
 const Header = () => (
   <header>
